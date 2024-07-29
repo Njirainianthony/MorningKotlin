@@ -15,4 +15,15 @@ fun main() {
     println(isKotlinInteresting)
 
 
+
+    //TYPE CASTING
+
+    var result=num1.toDouble()
+    var result2=num2.toInt()
+
+
+    println(result)
+    println(result2)
+
+
 }

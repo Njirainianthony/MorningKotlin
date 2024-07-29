@@ -1,0 +1,23 @@
+import java.util.Scanner
+
+fun main() {
+
+    var read=Scanner(System.`in`)
+
+
+    println("Enter your full name: ")
+    var fullname= readln()
+    println("My name is $fullname")
+
+    println("Enter your age")
+    var age= read.nextInt()
+    println("I'm $age years old")
+
+
+
+
+
+
+
+
+}
