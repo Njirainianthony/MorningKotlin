@@ -7,4 +7,5 @@ fun main() {
     }
         while (num<=45)
 
+
 }
